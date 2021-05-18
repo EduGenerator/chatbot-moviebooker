@@ -1,0 +1,126 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/moana.jpg",
+    "baseName": "moana.jpg",
+    "format": "JPEG",
+    "formatDescription": "JPEG",
+    "mimeType": "image/jpeg",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 1013,
+      "height": 1500,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 4558500,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 142.8,
+        "median": 147.667,
+        "standardDeviation": 16812.6,
+        "kurtosis": -0.820298,
+        "skewness": -0.523343,
+        "entropy": 0.951193
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 99.5637,
+        "median": 63,
+        "standardDeviation": 19364,
+        "kurtosis": -1.19101,
+        "skewness": 0.163467,
+        "entropy": 0.943728
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 159.851,
+        "median": 180,
+        "standardDeviation": 14816.3,
+        "kurtosis": -0.240515,
+        "skewness": -0.647339,
+        "entropy": 0.957518
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 168.985,
+        "median": 200,
+        "standardDeviation": 16257.4,
+        "kurtosis": 0.0775281,
+        "skewness": -0.943343,
+        "entropy": 0.952332
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "JPEG",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 1013,
+      "height": 1500,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "JPEG",
+    "quality": 83,
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2021-03-30T03:59:21+00:00",
+      "date:modify": "2021-03-30T03:59:21+00:00",
+      "jpeg:colorspace": "2",
+      "jpeg:sampling-factor": "2x2,1x1,1x1",
+      "signature": "75ac882ee2e413fbdc21eeb47a139314382434fccdd5a3049cccaf2c435655c0"
+    },
+    "tainted": false,
+    "filesize": "375737B",
+    "numberPixels": "1519500",
+    "pixelsPerSecond": "18.2598MB",
+    "userTime": "0.080u",
+    "elapsedTime": "0:01.083",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
